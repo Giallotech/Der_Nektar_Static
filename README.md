@@ -12,7 +12,7 @@ Benutzer sollten in der Lage sein, das optimale Layout für die Komponente abhä
 
 ### Links
 
-- GitHub URL: [https://github.com/Giallotech/SAE/tree/main/der-nektar](https://github.com/Giallotech/SAE/tree/main/der-nektar)
+- GitHub URL: [https://github.com/Giallotech/Der_Nektar_Static](https://github.com/Giallotech/Der_Nektar_Static)
 - Live Site URL: [https://der-nektar.vercel.app/](https://der-nektar.vercel.app/)
 
 ## Mein Prozess
